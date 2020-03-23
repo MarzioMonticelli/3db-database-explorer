@@ -4,6 +4,8 @@ It was developed by Marzio Monticelli as final project for the course of Interac
 
 The project is based on the idea to develop a 3D Web Service to manage databases and see a 3D representation of the data space through simply web interfaces. 
 
+To read more about this project you can found the final report in ``documentation`` folder. 
+
 ## Installation
 
 Create a folder called 3dB in the root directory of your local server. The local path to the folder you have just created should look like:
