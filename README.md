@@ -2,8 +2,6 @@
 > A simple web application integrating an experimental WebGL database explorer written using three.js. 
 It was developed by Marzio Monticelli as final project for the course of Interactive Graphics (academic year 2017/2018) at Sapienza, University of Rome. 
 
-![](header.png)
-
 The project is based on the idea to develop a 3D Web Service to manage databases and see a 3D representation of the data space through simply web interfaces. 
 
 ## Installation
@@ -39,6 +37,10 @@ To make the access to the admin panel and see the experimental 3D experience you
 email: admin@example.com
 password: password
 ```
+
+Tee following image shows the exploration of 3 different databases created throw the application interfaces:
+
+![](header.png)
 
 
 ## Release History
