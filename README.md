@@ -6,7 +6,7 @@ The project is based on the idea to develop a 3D Web Service to manage databases
 
 To read more about this project you can found the final report in ``documentation`` folder. 
 
-## Prupose
+## What is this repository for?
 This repository is intended for presentation purposes only, therefore neither safety nor actual usability of the developed application has been taken care of since they was not concerned at the end of the final evaluation.
 
 ## Installation
