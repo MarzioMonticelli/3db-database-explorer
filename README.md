@@ -1,4 +1,4 @@
-# 3db - Explore database structure in a 3D environment.  
+# 3db - Explore database structure in 3D environments.  
 > A simple web application integrating an experimental WebGL database explorer written using three.js. 
 It was developed by Marzio Monticelli as final project for the course of Interactive Graphics (academic year 2017/2018) at Sapienza, University of Rome. 
 
