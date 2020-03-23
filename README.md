@@ -40,7 +40,7 @@ email: admin@example.com
 password: password
 ```
 
-Tee following image shows the exploration of 3 different databases created throw the application interfaces:
+Tee following image shows the exploration of 3 different databases created through the user interfaces of the application:
 
 ![](header.png)
 
