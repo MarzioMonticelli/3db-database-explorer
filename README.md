@@ -6,6 +6,9 @@ The project is based on the idea to develop a 3D Web Service to manage databases
 
 To read more about this project you can found the final report in ``documentation`` folder. 
 
+## Prupose
+This repository is intended for presentation purposes only, therefore neither safety nor actual usability of the developed application has been taken care of since they was not concerned at the end of the final evaluation.
+
 ## Installation
 
 Create a folder called 3dB in the root directory of your local server. The local path to the folder you have just created should look like:
