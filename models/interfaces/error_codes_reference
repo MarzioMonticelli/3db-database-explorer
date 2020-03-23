@@ -1,0 +1,31 @@
+ERROR CODES REFERENCES
+
+
+Generals:
+
+100 - generic error
+101 - Nullpointer Exception
+102 - Invalid Format
+103 - Filter Error
+
+Strings:
+
+201 - String field too short
+202 - String field too long
+203 - String filed generic error 
+
+Numbers:
+
+301 - Number field out of range (>)
+302 - Number field out of range (<)
+
+Sets:
+
+401 - field not in the set
+
+
+Application State:
+
+501 - Connection error
+502 - IvalidRequest
+503 - Invalid Apikey
