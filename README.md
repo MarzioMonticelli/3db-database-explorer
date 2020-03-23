@@ -29,7 +29,7 @@ http://localhost/3dB/
 ```
 
 
-## Usage example
+## Access
 
 To make the access to the admin panel and see the experimental 3D experience you can use the following credentials:
 
